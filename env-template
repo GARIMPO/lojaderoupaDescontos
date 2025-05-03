@@ -1,0 +1,13 @@
+# Configurações do Supabase
+# Substitua com suas próprias credenciais
+
+# URL do seu projeto Supabase
+# Exemplo: https://abcdefghijklm.supabase.co
+VITE_SUPABASE_URL=sua_url_do_supabase
+
+# Chave anônima (pública) do seu projeto Supabase
+# Pode ser encontrada em Project Settings > API
+VITE_SUPABASE_ANON_KEY=sua_chave_anonima_do_supabase
+
+# Ambiente (development, production)
+NODE_ENV=development 
